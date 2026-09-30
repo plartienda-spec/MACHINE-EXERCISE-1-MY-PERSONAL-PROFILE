@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+}
+
+
+main{
+    text-align:center;
+    font-family: sans-serif, Arial; 
+
+}
+
+.info{
+    text-align:left;
+}
+caption{
+    text-align:center;
+    font-weight:bold;
+}
+
+
+#gym{
+    color: #807396;
+}
+
+#name{
+    background-color: #807396;
+    color: white;
+}
+
+table {
+    border: 1px solid #dba763;
+    margin: 10px auto;
+    width: 600px;
+    height : 400px;
+}
+
+th, td{
+    border: 3px solid #dba763;
+    padding: 10px;
+
+}
+
+#Fact{
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.MovieeeZ {
+    list-style-type: decimal;
+}
+
+#quote{
+    font-style: italic;
+    quotes: "'" "'";
+}
+
+.GitZ{
+    background-color:#807396;
+    color: white;
+}
+ a:hover{
+    color: white;
+ }
+
+img{
+    width:200px;
+    height:200px;
+}
+
